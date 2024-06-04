@@ -1,0 +1,20 @@
+Cucumber - is a tool:
+Gherkin - is a language
+     BDD - behavioral-driven development
+Group ID
+Artifact ID
+
+Benefits of BDD:
+         Collaboration:
+                This process involves multiple stakeholders and their understanding of the project.
+                Having all the stakeholders involved from the beginning and throughout the process
+                fosters strong communication and engage in the product development cycle.
+         Focus on End Users:
+                BDD puts the customer's vision in mind first. BDD focuses on the user's view on how
+                the application should behave. By focusing on the user's view, this takes out the
+                "what-ifs" from all the different stakeholders to deliver the product in a shorter software
+         Business Values:
+                Implementing BDD automates redundant processes and creates structured scenarios by writing
+                test scenarios in an easily-decipherable language - Gherkin. Eliminating lag time in between
+                processe
+                s means that businesses can focus on client priorities and deliver results faster.
